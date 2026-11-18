@@ -54,3 +54,4 @@ Le script affiche les élèves à rencontrer et à surveiller, avec la raison de
 Moins de 25 : pas d'alerte. De 25 à 44 : à surveiller. 45 et plus : à rencontrer.
 
 Avec 24 élèves sur un trimestre, un modèle d'apprentissage ne serait pas fiable : les règles restent lisibles et vérifiables. Les élèves du jeu de test sont fictifs.
+
